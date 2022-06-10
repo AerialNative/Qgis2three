@@ -21,7 +21,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 0,
       "properties": {
-        "name": "SAN_JUAN_DE_DIOS",
+        "name": "ept",
         "clickable": true,
         "visible": true,
         "type": "server",
