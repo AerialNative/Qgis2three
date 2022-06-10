@@ -25,7 +25,7 @@ app.loadJSONObject({
         "clickable": true,
         "visible": true,
         "type": "server",
-        "url": "https://github.com/AerialNative/EPT/ept.json",
+        "url": "https://aerialnative.github.io/Qgis2three/blob/gh-page/data/SJD/ept.json",
         "opacity": 1.0,
         "colorType": "RGB",
         "boxVisible": false
