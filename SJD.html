@@ -127,10 +127,10 @@ var container = document.getElementById("view"),
 app.init(container);       // initialize viewer
 
 // load the scene
-app.loadSceneFile("./data/SJD/ept.json", function (ept) {
+app.loadSceneFile("./data/SJD/scene.js", function (scene) {
   // scene file has been loaded
   app.start();
-}, function (ept) {
+}, function (scene) {
   // all relevant files have been loaded
 
 });
